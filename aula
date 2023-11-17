@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Site do 1A</title>
+  </head>
+  <style>
+      body{
+        background-color:#FF00FF;
+        color:#00FF00;
+        font-family:FreeMono;
+      }
+    </style>
+  <body>
+    <fildset>
+      <legend>CADASTRAR:</legend>
+      <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+      <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+      <select>
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+      </select>
+      <bottom>Cadastrar</bottom>
+    </fildset>
+  </body>
+  <img src="https://w7.pngwing.com/pngs/561/235/png-transparent-fashion-clothing-feminine-purple-fashion-fictional-character.png">
+</html>
